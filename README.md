@@ -1,12 +1,8 @@
 ### Hi there 👋
   
-  <h2 align="center">
+ <h2 align="center">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Edwin+Baeza.;I'm+a+backend+developer;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
-
-
-## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ## My Tech Stack and Tools
 
